@@ -24,6 +24,7 @@
 */
 
 /* Contact: Mengyao Zhao <zhangmp@bc.edu> */
+/* Contact: FNU "Ray" Renaldi <renaldi.sim@gmail.com> */
 
 /*
  *  ssw.c
@@ -37,6 +38,8 @@
 
  /*
     Modified utilizing AVX2 instructions by: FNU Renaldi
+	University of Central Oklahoma
+	Last Revision on 12/1/2015
  */
 
 #include <stdint.h>
